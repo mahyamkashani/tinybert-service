@@ -1,4 +1,4 @@
-# End-to-End ML Deployment
+# :dolphin: End-to-End ML Deployment
 
 ## Docker Setup
 
